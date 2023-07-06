@@ -1,7 +1,7 @@
 # A/B Testing Final Project - Masterschool
 
 # Metadata
-* Fictitious e-commerce platform A/B test user (test subject) onbording data, acitivity data and personal data (provided by Mastershcool).
+* Fictitious e-commerce platform A/B test user (test subject) onboarding data, activity data and personal data (provided by Masterschool).
 * [ISO 3166 country codes](https://www.iso.org/obp/ui/#search).
 
 ## 1. Project description
@@ -31,7 +31,7 @@
     *  Results saved in test_results.csv.
 ### Tableau
  * Generate visualizations from workbook [GloBox v4.twbx](https://github.com/coderedstorage/globox/blob/main/GloBox%20v4.twbx) 
- * Data committed to Tableau saved on [globox_tableau_commits](https://github.com/coderedstorage/globox/blob/main/globox_tableau_commits.zip).
+ * Data committed to Tableau saved on [globox_tableau_commits.zip](https://github.com/coderedstorage/globox/blob/main/globox_tableau_commits.zip).
     *  ab_boxplots.csv.
     *  ab_lifecycle.csv.
     *  ab_test_final.csv.
