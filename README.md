@@ -14,15 +14,25 @@
 ## 3. Tools and resources
 ### MySQL
  * Raw inputs imported as tables (see [globox_raw_inputs.zip](https://github.com/coderedstorage/globox/blob/main/globox_raw_inputs.zip).
-   * 
+    * activity.csv imported into table abglobox.activity
+    * groups.csv imported into table abglobox.groups
+    * iso_3166_country_code.csv imported into table abglobox.iso_codes
+    * users.csv imported into table abglobox.users
+ * MySQL scripts to create views and outputs (see [globox_sql.zip](https://github.com/coderedstorage/globox/blob/main/globox_sql.zip).
+    *  abglobox.ab_test_final.sql to join data from tables above into view abglobox.ab_test_final.
+        *  Output into ab_test_final.csv.
+    *  abglobox.ab_lifecycle.sql to generate view abglobox.ab_lifecycle (from view abglobox.ab_test_final).
+        *  Output into ab_lifecycle.csv.
+    *  abglobox.ab_boxplots.sql to generate view abglobox.ab_boxplots (from view abglobox.ab_test_final).
+        *  Output into ab_boxplots.csv.
 ### Python
  * Please see either the submission or feedback/annotations documents above.
-
+    *  Generate test results from data drawn from ab_test_final.csv.
+    *  Results saved in test_results.csv.
 ### Tableau
- * Please see either the submission or feedback/annotations documents above.
-
-
-
-
-## 4. Resources
-  * Please see the links above.
+ * Generate visualizations from.
+ * Data committed to Tableau saved on [globox_tableau_commits](https://github.com/coderedstorage/globox/blob/main/globox_tableau_commits.zip).
+    *  ab_boxplots.csv.
+    *  ab_lifecycle.csv.
+    *  ab_test_final.csv.
+    *  test_result.csv.
