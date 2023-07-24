@@ -10,7 +10,7 @@
 * A mastery project is significant. It is a graded project by Masterschool to evidence a candidate's job-readiness to prospective employers, and for the candidate to graduate from the program.  
 
 ## 1. Project description
- * Plan, organize and run A/B test on a new banner that highlights the food and drink products of a fictitious e-commerce platform called GloBox.
+ * Plan, organize and run A/B test on a new banner that highlights the food and drink products of GloBox, a fictitious e-commerce platform.
 
 ## 2. Submission & Feedback
  * First and only submission was made on July 6, 2023. The [submission pack](https://github.com/coderedstorage/globox/blob/f41a12aab900ea02881c509247a6d3f0f95e4f22/Submission_AB_testing_project_AK.zip) includes:
