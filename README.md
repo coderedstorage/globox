@@ -39,7 +39,7 @@
     *  Results saved in test_results.csv.
 ### Tableau
  * Generate visualizations from workbook [GloBox v4.twbx](https://github.com/coderedstorage/globox/blob/main/GloBox%20v4.twbx) 
- * Data committed to Tableau saved on [globox_tableau_commits.zip](https://github.com/coderedstorage/globox/blob/main/globox_tableau_commits.zip).
+ * Data committed to Tableau [globox_tableau_commits.zip](https://github.com/coderedstorage/globox/blob/main/globox_tableau_commits.zip) contains the following.
     *  ab_boxplots.csv.
     *  ab_lifecycle.csv.
     *  ab_test_final.csv.
