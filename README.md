@@ -1,11 +1,12 @@
 # A/B Testing Final Project - Masterschool
 
 # Metadata
-* Fictitious e-commerce platform A/B test user (test subject) onboarding data, activity data and personal data (provided by Masterschool).
+* Fictitious e-commerce platform (called GloBox)  A/B test user (test subject) onboarding data, activity data and personal data (provided by Masterschool). Project introduction is [here](https://cms.master.school/sprint-overview-extract-the-ab-test-data).
 * [ISO 3166 country codes](https://www.iso.org/obp/ui/#search).
 
 ## 1. Project description
- * Plan, organize and run A/B test on a new banner that highlights the food and drink products of a fictitious e-commerce platform called GloBox. 
+ * Plan, organize and run A/B test on a new banner that highlights the food and drink products of a fictitious e-commerce platform called GloBox.
+ * As of 
 
 ## 2. Submission & Feedback
  * [A/B testing report](https://github.com/coderedstorage/globox/blob/main/GloBox%20AB%20Testing%20Report%20-%20AK.pdf).
