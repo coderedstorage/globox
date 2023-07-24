@@ -1,7 +1,7 @@
 # GloBox Mastery Project (A/B Testing Final Project) - Masterschool
 
 # Metadata
-* Fictitious e-commerce platform (called GloBox) A/B test user (test subject) onboarding data, activity data and personal data (provided by Masterschool). Project introduction can be found [here](https://cms.master.school/sprint-overview-extract-the-ab-test-data).
+* A/B test user (test subject) onboarding data, activity data and personal data for a fictitious e-commerce platform (called GloBox), provided by Masterschool. Project introduction can be found [here](https://cms.master.school/sprint-overview-extract-the-ab-test-data).
 * [ISO 3166 country codes](https://www.iso.org/obp/ui/#search).
 
 # Background
