@@ -16,8 +16,8 @@
  * First and only submission was made on July 6, 2023. The [submission pack](https://github.com/coderedstorage/globox/blob/f41a12aab900ea02881c509247a6d3f0f95e4f22/Submission_AB_testing_project_AK.zip) includes:
     * [A/B testing report](https://github.com/coderedstorage/globox/blob/main/GloBox%20AB%20Testing%20Report%20-%20AK.pdf).
     * [2-page presentation](https://github.com/coderedstorage/globox/blob/main/GloBox%20AB%20Testing%20Presentation%20-%20AK.pdf).
- * The author received direct feedback for his first submission on his Masterschool Campus account on July 23rd, 2023 (ahead of the project's final submission date of August 5th, 2023).
- * The author received A+, the highest grade possible and will de-facto graduate from the program. There will be no further requirement to re-submit the project. 
+ * The author received direct feedback for his first submission on his Masterschool Campus account on July 23rd, 2023 (ahead of the project's final submission date August 5th, 2023).
+ * The author received A+, the highest grade possible and will de-facto graduate from the program. Thus there is no further requirement to re-submit the project. 
 
 ## 3. Tools and resources
 ### MySQL
