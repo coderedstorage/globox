@@ -1,4 +1,4 @@
-# GloBox Mastery Project (A/B Testing Final Project) - Masterschool
+# GloBox Mastery Project (A/B Testing) by Masterschool
 ###### Updated on July 24th, 2023.
 # Metadata
 * A/B test user (test subject) onboarding data, activity data and personal data for a fictitious e-commerce platform called GloBox, provided by Masterschool. Project introduction can be found [here](https://cms.master.school/sprint-overview-extract-the-ab-test-data).
