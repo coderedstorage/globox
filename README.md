@@ -1,4 +1,4 @@
-# DA106 GloBox Mastery Project by Masterschool (graded A+)
+# DA106 GloBox Mastery Project by [Masterschool](https://www.masterschool.com/) (graded A+)
 ###### Updated on October 27th, 2023.
 * Click [here](https://www.linkedin.com/feed/update/urn:li:activity:7104817292831510529/) for the LinkedIn post of the project and find me there.
 # Metadata
