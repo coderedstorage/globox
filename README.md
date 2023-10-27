@@ -1,5 +1,6 @@
 # DA106 GloBox Mastery Project by [Masterschool](https://www.masterschool.com/) (graded A+)
-###### Updated on October 27th, 2023.
+###### Updated on October 27th, 2023. 
+###### Previously updated on July 26th, 2023. Graded in July 2023. 
 * Click [here](https://www.linkedin.com/feed/update/urn:li:activity:7104817292831510529/) for the LinkedIn post of the project and find me there.
 # Metadata
 * A/B test user (test subject) onboarding data, activity data and personal data for a fictitious e-commerce platform called GloBox, provided by Masterschool. Project introduction can be found [here](https://cms.master.school/sprint-overview-extract-the-ab-test-data).
